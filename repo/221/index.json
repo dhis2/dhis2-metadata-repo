@@ -1,0 +1,8 @@
+{
+  "repositories": [ {
+    "id": "sierre-leone-demo",
+    "name": "Sierra Leone demo",
+    "description": "Sierra Leone demo database",
+    "version": "0.1"
+  } ]
+}
