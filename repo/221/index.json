@@ -3,6 +3,7 @@
     "id": "sierre-leone-demo",
     "name": "Sierra Leone demo",
     "description": "Sierra Leone demo database",
-    "version": "0.1"
+    "version": "0.1",
+    "url": "sierra-leone-demo/metadata.json"
   } ]
 }
