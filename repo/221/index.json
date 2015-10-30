@@ -5,5 +5,19 @@
     "description": "Sierra Leone demo database",
     "version": "0.1",
     "href": "https://raw.githubusercontent.com/dhis2/dhis2-metadata-repo/master/repo/221/sierra-leone-demo/metadata.json"
-  } ]
+  },
+  {
+    "id": "training-land-org-units",
+    "name": "Trainingland organisation units",
+    "description": "Trainingland organisation units",
+    "version": "0.1",
+    "href": "https://raw.githubusercontent.com/dhis2/dhis2-metadata-repo/master/repo/221/trainingland-org-units/metadata.json"
+  },
+  {
+    "id": "sims-data-elements",
+    "name": "SIMS data elements",
+    "description": "SIMS data elements",
+    "version": "0.1",
+    "href": "https://raw.githubusercontent.com/dhis2/dhis2-metadata-repo/master/repo/221/sims-data-elements/metadata.json"
+  }]
 }
