@@ -19,7 +19,7 @@
         ],
         "versions": [{
             "version": "0.2",
-            "url": "https://raw.githubusercontent.com/dhis2/dhis2-metadata-repo/master/repo/226/sierra-leone-demo/metadata.json"
+            "url": "https://raw.githubusercontent.com/dhis2/dhis2-metadata-repo/master/repo/26/sierra-leone-demo/metadata.json"
         }]
     }, {
         "id": "training-land-org-units",
@@ -41,7 +41,7 @@
         ],
         "versions": [{
             "version": "0.2",
-            "url": "https://raw.githubusercontent.com/dhis2/dhis2-metadata-repo/master/repo/226/trainingland-org-units/metadata.json"
+            "url": "https://raw.githubusercontent.com/dhis2/dhis2-metadata-repo/master/repo/26/trainingland-org-units/metadata.json"
         }]
     }, {
         "id": "sims-data-elements",
@@ -63,7 +63,7 @@
         ],
         "versions": [{
             "version": "0.2",
-            "url": "https://raw.githubusercontent.com/dhis2/dhis2-metadata-repo/master/repo/226/sims-data-elements/metadata.json"
+            "url": "https://raw.githubusercontent.com/dhis2/dhis2-metadata-repo/master/repo/26/sims-data-elements/metadata.json"
         }]
     }]
 }
