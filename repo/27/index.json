@@ -1,0 +1,69 @@
+{
+    "packages": [{
+        "id": "sierre-leone-demo",
+        "name": "Sierra Leone demo",
+        "organization": "UiO",
+        "description": "Sierra Leone demo database",
+        "url": "http://www.uio.no",
+        "icons": [{
+            "48": "http://www.uio.no/om/designmanual/images/1-2-logo-universitetet-i-oslo.jpg",
+            "128": "http://www.uio.no/om/designmanual/images/1-2-logo-universitetet-i-oslo.jpg"
+        }],
+        "license": {
+            "name": "Creative commons",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        "tags": [
+            "Malaria",
+            "Aggregate"
+        ],
+        "versions": [{
+            "version": "0.2",
+            "href": "https://raw.githubusercontent.com/dhis2/dhis2-metadata-repo/master/repo/26/sierra-leone-demo/metadata.json"
+        }]
+    }, {
+        "id": "training-land-org-units",
+        "name": "Trainingland organisation units",
+        "organization": "UiO",
+        "description": "Trainingland organisation units",
+        "url": "http://www.uio.no",
+        "icons": [{
+            "48": "http://www.uio.no/om/designmanual/images/1-2-logo-universitetet-i-oslo.jpg",
+            "128": "http://www.uio.no/om/designmanual/images/1-2-logo-universitetet-i-oslo.jpg"
+        }],
+        "license": {
+            "name": "Creative commons",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        "tags": [
+            "Training",
+            "Dashboards"
+        ],
+        "versions": [{
+            "version": "0.2",
+            "href": "https://raw.githubusercontent.com/dhis2/dhis2-metadata-repo/master/repo/26/trainingland-org-units/metadata.json"
+        }]
+    }, {
+        "id": "sims-data-elements",
+        "name": "SIMS data elements",
+        "organization": "UiO",
+        "description": "SIMS data elements",
+        "url": "http://www.uio.no",
+        "icons": [{
+            "48": "http://www.uio.no/om/designmanual/images/1-2-logo-universitetet-i-oslo.jpg",
+            "128": "http://www.uio.no/om/designmanual/images/1-2-logo-universitetet-i-oslo.jpg"
+        }],
+        "license": {
+            "name": "Creative commons",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        "tags": [
+            "SIMS",
+            "Survey"
+        ],
+        "versions": [{
+            "version": "0.2",
+            "href": "https://raw.githubusercontent.com/dhis2/dhis2-metadata-repo/master/repo/26/sims-data-elements/metadata.json"
+        }]
+    }]
+}
